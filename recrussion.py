@@ -1,3 +1,5 @@
+# Salem & Jared
+
 ## Write a function, sumNums, that takes a number, num, as an argument and returns 
 ## the sum of all the numbers between 1 and num. You can assume that num will be 
 ## greater than 1. Use recursion.
@@ -7,9 +9,9 @@
 ## case of 1. Then create another base case where if the number is 1 return number.
 
 
-# Salem & Jared
-# Jared wrote psuedo code. 
-# Salem wrote function. 
+
+### Jared wrote psuedo code. 
+#### Salem wrote function. 
 
 def sumNums(num):
     if num == 1:
